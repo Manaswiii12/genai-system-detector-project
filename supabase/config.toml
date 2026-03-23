@@ -1,0 +1,16 @@
+project_id = "sfudoaeasebgpgxmphxc"
+
+[functions.analyze-resume]
+verify_jwt = false
+
+[functions.match-job]
+verify_jwt = false
+
+[functions.ai-chat]
+verify_jwt = false
+
+[functions.analyze-literature]
+verify_jwt = false
+
+[functions.detect-fake]
+verify_jwt = false
